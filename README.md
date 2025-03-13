@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18676325)
 # 5.04-Word-Count-Take2
 
 In this lab we will use oure word-counting code from Lab 6.02 to create a program that determines the top 5 most commonly used words in a (hard-coded) passage of text. After processing the passage, it prints the top 5 words and the number of times each occurs.
